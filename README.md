@@ -8,8 +8,10 @@ COSA DI CUI DEVI AVER BISOGNO PER ACCEDERE:
 
 Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto:
 CHE TIPO DI UTENTE SEI:
-  -Utente normale
-  -Utente lavoratore
+
+    -Utente normale
+    -Utente lavoratore
+    
 A seconda della selezione utente che facciamo i campi che ci serviranno per creare un account saranno differenti:
   1. UTENTE NORMALE:
       -Mail
