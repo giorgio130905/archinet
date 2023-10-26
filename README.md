@@ -34,11 +34,19 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
         L'abbonamento SUPERIOR ha una durata di 12 mesi con l'accesso sempre a tutte le azziende disponibile ma rispetto al MEDIUM quando richiedermo un servizio ad un'azzinede registrata avrà la priorità rispetto agli altri utenti.
 
         <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE NORMALE] - (Registrazione),
-          [UTENTE NORMALE] - (Accesso),(Accesso) - (Selezione Piano Abbonamento),(Selezione Piano Abbonamento) - (Base),(Selezione Piano Abbonamento) - (Medium),(Selezione Piano Abbonamento) - (Superior),(Selezione Piano Abbonamento) > (Transazione),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)" >
+[UTENTE NORMALE] - (Accesso),
+(Accesso) > (Selezione Piano Abbonamento),
+(Selezione Piano Abbonamento) > (Base),
+(Selezione Piano Abbonamento) > (Medium),
+(Selezione Piano Abbonamento) > (Superior),
+(Selezione Piano Abbonamento) > (Transazione),
+(Transazione) > (Aggiungere Carta),
+(Transazione) > (Autenticazione),
+(Transazione) > (Conferma Pagamento)>
 
 
    
-   3. UTENTE LAVORATORE:
+   2. UTENTE LAVORATORE:
       L'utente lavoratore avrà la possiblità di selezionare il livello di abbonamento che potrà essere: BASE - MEDIUM - SUPERIOR:
         L'abbonamneto BASE ha una durata di 3 mesi, permetterà all'azzineda di essere consigliata solo agli UTENTI NORMALI con lo stesso piano di abbonamento
         L'abbonamento MEDIUM ha una durata di 6 mesi, permetterà all'azzeinda di essere consigliata a tutti gli utenti tranne a quelli con il piano BASE
