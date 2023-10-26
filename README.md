@@ -14,11 +14,13 @@ CHE TIPO DI UTENTE SEI:
     
 A seconda della selezione utente che facciamo i campi che ci serviranno per creare un account saranno differenti:
   1. UTENTE NORMALE:
-      -Mail
-      -Nome Utente
-      -Numero di Telefono
-      -Password
-  2. UTENTE LAVORATORE:
+     
+          -Mail
+          -Nome Utente
+          -Numero di Telefono
+          -Password
+     
+  3. UTENTE LAVORATORE:
       -Mail
       -Nome dell'Azienda
       -Numero di Telefono
