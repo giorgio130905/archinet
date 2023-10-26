@@ -6,9 +6,7 @@ Questa applicazione ci permette di risolvere il probema di non conoscere attivit
 
 COSA DI CUI DEVI AVER BISOGNO PER ACCEDERE:
 
-Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto
-
-CHE TIPO DI UTENTE SEI:
+Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto ,CHE TIPO DI UTENTE SEI:
 
     -Utente normale
     -Utente lavoratore
