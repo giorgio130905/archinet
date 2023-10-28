@@ -2,9 +2,9 @@
 
 Il mio sito web permette a tutti gli appassionati del mondo dell'architettura e non solo di potersi informare sulle novità architettoniche. Il sito permetterà anche di avere delle consulenze da impiegati certificati per poter avere delle informazioni o degli aiuti nei campi in cui si hanno bisogno.
 Questo sito permette anche di poter pubbliccizare la propia attivita grazie al propio account, perchè tutti gli utenti potranno fare una ricerca di azziende o piccole attività che possono essere competenti per il lavoro che si deve svelgere. 
-Questa applicazione ci permette di risolvere il probema di non conoscere attività che ci possono svolgere il lavoro. Infatti un singolo utente che vuole iscriversi a questo sito potrà selezionare il tipo di utente che sarà: lavoratore in ambito edile(con cui potra publicizare la sua piccola attivita ed essere contattato per svlgere piccoli lavori) o cliente(il quale avrà accesso solo alla ricerca di azziende per lo svolgimento dei lavori). Quindi con questa distinzione un singolo cliente potrà fare tutto da solo partendo dalla ricerca del progettista alla ditta che dovrà svolgere il lavoro.
+Questa applicazione ci permette di risolvere il probema di non conoscere aziede edili che ci possono svolgere il lavoro. 
 
-COSA DI CUI DEVI AVER BISOGNO PER ACCEDERE:
+COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
 
 Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto ,CHE TIPO DI UTENTE SEI:
 
@@ -49,6 +49,23 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
                 L'abbonamento SUPERIOR ha una durata di 12 mesi, prmetterà all'azzinda di essere consigliata a tutti gli utenti tranne a quelli con il piano BASE ma ripestto al MEDIUM verranno messe in primo piano e consigliate come prima scelta
 
 <img src="http://yuml.me/diagram/scruffy/usecase/ [UTENTE LAVORATORE] - (Registrazione),[UTENTE LAVORATORE] - (Accesso),(Accesso) > (Selezione Piano Abbonamento),(Selezione Piano Abbonamento)>(Transazione),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)">
+
+MODALITA' DI PAGAMENTO:
+
+Gli utenti alla fine della registrazione e scelta del piano di abbonamento che meglio credono per loro dovranno inserire la modalità di pagamneto che potrà essere scelta tra:
+
+        -Carte di credito e dibito (Visa,Mastercard,American Express, Nexi)
+        -Carte prepagate Postepay
+        -Paypal
+
+RICERCA DELLA ZONA:
+Gli utenti all'interno della applicazione web troveranno una funzione chiamata : "RICERCA VICINO A TE",questa fuznione cosa fa:
+
+        1.Apre una mappa virtuale
+        2.Dovremo cerchiare con il dito la zona in cui vogliamo fare la ricerca
+        3.Verranno visualizzati tutti i risultati e gli utenti potranno selezionare il più comodo per loro
+
+
 
 
 
