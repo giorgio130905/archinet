@@ -67,6 +67,8 @@ Gli utenti all'interno della applicazione web troveranno una funzione chiamata :
         3.Verranno visualizzati tutti i risultati e gli utenti potranno selezionare il più comodo per loro
 
 
+<img src="http://yuml.me/diagram/scruffy/usecase/ [SISTEMA] - (Attivazione Abbonamento),[SISTEMA] - (Ricerca Cliente),(Ricerca Cliente) > (Apertura della Mappa),[SISTEMA] - (Ricerca Azienda Edile),(Ricerca Azienda Edile) > (Apertura della Mappa),(Apertura della Mappa) > (Visualizzazione Risultati)">
+
 
 
 
