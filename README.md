@@ -59,6 +59,7 @@ Gli utenti alla fine della registrazione e scelta del piano di abbonamento che m
         -Paypal
 
 RICERCA DELLA ZONA:
+
 Gli utenti all'interno della applicazione web troveranno una funzione chiamata : "RICERCA VICINO A TE",questa fuznione cosa fa:
 
         1.Apre una mappa virtuale
