@@ -6,7 +6,9 @@ Questa applicazione ci permette di risolvere il probema di non conoscere aziede 
 
 COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
 
-Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto ,CHE TIPO DI UTENTE SEI:
+Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto:
+
+CHE TIPO DI UTENTE SEI:
 
     -Utente normale
     -Utente lavoratore
