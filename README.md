@@ -38,7 +38,7 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
                 L'abbonamento MEDIUM ha una durata di 6 mesi con l'accesso a tutte le azziendi disponibili nel applicazione
                 L'abbonamento SUPERIOR ha una durata di 12 mesi con l'accesso sempre a tutte le azziende disponibile ma rispetto al MEDIUM quando richiedermo un servizio ad un'azzinede registrata avrà la priorità rispetto agli altri utenti.
                 
-<img src="http://yuml.me/diagram/scruffy/usecase/ [UTENTE LAVORATORE] - (Registrazione),[UTENTE LAVORATORE] - (Accesso),(Accesso) > (Selezione Piano Abbonamento),(Selezione Piano Abbonamento)>(Transazione),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)">
+<img src="http://yuml.me/diagram/scruffy/usecase/ [UTENTE NORMALE] - (Registrazione),[UTENTE NORMALE] - (Accesso),(Accesso) > (Selezione Piano Abbonamento),(Selezione Piano Abbonamento)>(Transazione),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)">
 
 
    
@@ -48,6 +48,7 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
                 L'abbonamento MEDIUM ha una durata di 6 mesi, permetterà all'azzeinda di essere consigliata a tutti gli utenti tranne a quelli con il piano BASE
                 L'abbonamento SUPERIOR ha una durata di 12 mesi, prmetterà all'azzinda di essere consigliata a tutti gli utenti tranne a quelli con il piano BASE ma ripestto al MEDIUM verranno messe in primo piano e consigliate come prima scelta
 
-<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE LAVORATORE] - (Registrazione),[UTENTE LAVORATORE] - (Accesso),(Accesso) > (Selezione Piano Abbonamento),(Selezione Piano Abbonamento) > (Base),(Selezione Piano Abbonamento) > (Medium),(Selezione Piano Abbonamento) > (Superior),(Selezione Piano Abbonamento) > (Transazione),(Base) < (3 mesi),(Base) < (aziende visibile solo agli utenti con piano base),(Medium) < (6 mesi),(Medium) < (aziende visibile a tutti gli utenti tranne con piano base),(Superior) < (12 mesi),(Superior) < (aziende visibile a tutti gli utenti tranne con piano base),(Superior) < (azienda messa in primo piano ripsetto a quelle con il piano medium),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)" >
+<img src="http://yuml.me/diagram/scruffy/usecase/ [UTENTE LAVORATORE] - (Registrazione),[UTENTE LAVORATORE] - (Accesso),(Accesso) > (Selezione Piano Abbonamento),(Selezione Piano Abbonamento)>(Transazione),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)">
+
 
 
