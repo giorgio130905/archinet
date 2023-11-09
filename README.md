@@ -16,8 +16,7 @@ COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
 
 CHE TIPO DI UTENTE SEI:
 
-   * Requisiti Funzionali Utente
-     
+    * Requisiti Funzionali Utente
     -Utente normale
     -Utente lavoratore
 
