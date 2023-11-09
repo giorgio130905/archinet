@@ -29,17 +29,17 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
           -Nome Utente
           -Numero di Telefono
 
-   <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Normale)^(Accesso),(Utente Normale)>(Nome Utente),(Utente Normale)>(Numero Telefono)">
+<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Normale)^(Accesso),(Utente Normale)>(Nome Utente),(Utente Normale)>(Numero Telefono)">
      
  1. UTENTE LAVORATORE:
-   
-          -Mail
+
+          *Requisiti Funzionali Utente
           -Nome dell'Azienda
           -Numero di Telefono
           -Tipo di azienda
           -Servizio che svolgo
-          -Password
-     
+
+<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Lavoratore)^(Accesso),(Utente Lavoratore)>(Nome dell'Azienda),(Utente Lavoratore)>(Numero di Telefono),(Utente Lavoratore)>(Tipo di Azzienda),(Utente Lavoratore)>(Servizio che Svolgono)">
 MODELLO DI BUISINES:
 
 Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
