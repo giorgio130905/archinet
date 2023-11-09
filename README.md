@@ -43,7 +43,7 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
 MODELLO DI BUISINES:
 
 Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
-   
+         
         1. UTENTE NORMALE:
                 L'utente normale avrà la possibilita di selezionare il livello di abbonamento che potrà essere: BASE - MEDIUM - SUPERIOR.
                 L'abbonamneto BASE ha una durata di 3 mesi con l'accesso però non a tutte le azziende disponibili nel applicazione
@@ -61,25 +61,18 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),(Accesso)<(Abbonamenti),(Abbonamenti)>(Paga),(Abbonamenti)>(Scegliere Abbonamento),(Abbonamenti)>(Aggiungere Carta),[Banca]-(Elaborazione),(Elaborazione)>(Invio Risultato di Conferma),[Sistema]-(Attivazione Abbonamento)">
 
-MODALITA' DI PAGAMENTO:
 
-Gli utenti alla fine della registrazione e scelta del piano di abbonamento che meglio credono per loro dovranno inserire la modalità di pagamneto che potrà essere scelta tra:
+Requisiti non funzionali di sistemi:
 
-        -Carte di credito e dibito (Visa,Mastercard,American Express, Nexi)
-        -Carte prepagate Postepay
-        -Paypal
-
-RICERCA DELLA ZONA:
-
-Gli utenti all'interno della applicazione web troveranno una funzione chiamata : "RICERCA VICINO A TE",questa fuznione cosa fa:
-
-        1.Apre una mappa virtuale
-        2.Dovremo cerchiare con il dito la zona in cui vogliamo fare la ricerca
-        3.Verranno visualizzati tutti i risultati e gli utenti potranno selezionare il più comodo per loro
-
-
-<img src="http://yuml.me/diagram/scruffy/usecase/ [SISTEMA] - (Attivazione Abbonamento),[SISTEMA] - (Ricerca Cliente),(Ricerca Cliente) > (Apertura della Mappa),[SISTEMA] - (Ricerca Azienda Edile),(Ricerca Azienda Edile) > (Apertura della Mappa),(Apertura della Mappa) > (Visualizzazione Risultati)">
-
-
+   Sicurezza:
+      -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
+   Performance:
+      -Il sistema deve essere reattivo e garantire tempi di risposta rapidi.
+   Scalabilità:
+      -Il sistema deve essere in grado di gestire un numero crescente di utenti e dati di gioco.
+   Usabilità:
+      -L'applicazione deve essere intuitiva e facile da usare per gli utenti.
+   Disponibilità:
+      -Il sistema deve essere disponibile e accessibile in modo affidabile.
 
 
