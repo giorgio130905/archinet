@@ -12,7 +12,7 @@ COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
     - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account. * Requisti Funzionali Sistema
     - Gestione accesso, registrazione, reset password e autenticazione a due fattori.
 
-<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Registrazione),(Registrazione)<(Verifica Registrazione)>
+<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Registrazione),(Registrazione)<(Verifica Registrazione)">
 
 Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto:
 
