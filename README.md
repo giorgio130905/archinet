@@ -29,7 +29,7 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
           -Nome Utente
           -Numero di Telefono
 
-   
+   <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Normale)^(Accesso),(Utente Normale)>(Nome Utente),(Utente Normale)>(Numero Telefono)">
      
  1. UTENTE LAVORATORE:
    
