@@ -21,7 +21,7 @@ CHE TIPO DI UTENTE SEI:
     -Utente normale
     -Utente lavoratore
 
-<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Accesso)>(Utente Normale),(Accesso)>(Accesso Lavoratore)">
+<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Normale)^(Accesso),(Accesso Lavoratore)^(Accesso)">
 
 A seconda della selezione utente che facciamo i campi che ci serviranno per creare un account saranno differenti:
 1. UTENTE NORMALE:
