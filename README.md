@@ -50,7 +50,8 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
                 L'abbonamento MEDIUM ha una durata di 6 mesi con l'accesso a tutte le azziendi disponibili nel applicazione
                 L'abbonamento SUPERIOR ha una durata di 12 mesi con l'accesso sempre a tutte le azziende disponibile ma rispetto al MEDIUM quando richiedermo un servizio ad un'azzinede registrata avrà la priorità rispetto agli altri utenti.
                 
-<img src="http://yuml.me/diagram/scruffy/usecase/ [UTENTE NORMALE] - (Registrazione),[UTENTE NORMALE] - (Accesso),(Registrazione) > (Selezione Piano Abbonamento),(Selezione Piano Abbonamento)>(Transazione),(Transazione) > (Aggiungere Carta),(Transazione) > (Autenticazione),(Transazione) > (Conferma Pagamento)">
+<img src="http://yuml.me/diagram/scruffy/usecase/ [Utente]-(Accesso),(Accesso)<(Abbonamenti),(Abbonamenti)>(Paga),(Abbonamenti)>(Scegliere Abbonamento),(Abbonamenti)>(Aggiungere Carta),
+[Banca]-(Elaborazione),(Elaborazione)>(Invio Risultato di Conferma),[Sistema]-(Attivazione Abbonamento)">
 
 
    
