@@ -6,6 +6,14 @@ Questa applicazione ci permette di risolvere il probema di non conoscere aziede 
 
 COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
 
+    * Requisti Funzionali Utente
+
+    - Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
+    - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account. * Requisti Funzionali Sistema
+    - Gestione accesso, registrazione, reset password e autenticazione a due fattori.
+
+<img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Registrazione),(Registrazione)<(Verifica Registrazione)>
+
 Prima di tutto quando faremo l’accesso la prima volta su questa applicazione web ci verrà chiesto:
 
 CHE TIPO DI UTENTE SEI:
