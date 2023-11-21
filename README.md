@@ -81,20 +81,31 @@ Requisiti non funzionali di sistemi:
 
 
    Grafico: Work-breakdown-structure:
-
       - Progetto Sito Web Architettura
+      
   |-- Analisi e Pianificazione
+  
   |   |-- Definizione Obiettivi Progetto
+  
   |   |-- Identificazione Stakeholder
+  
   |   |-- Analisi Requisiti Utenti e di Sistema
+  
   |   |-- Pianificazione Tempistica
+  
   |   |-- Budgetizzazione
+  
   |
   |-- Sviluppo dell'Applicazione
+  
   |   |-- Progettazione dell'Interfaccia Utente
+  
   |   |   |-- Schermata di Registrazione
+  
   |   |   |-- Schermata Principale
+  
   |   |   |-- Pannello Utente Normale
+  
   |   |   |-- Pannello Utente Lavoratore
   |   |
   |   |-- Implementazione della Registrazione e Accesso
