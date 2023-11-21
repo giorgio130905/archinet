@@ -80,3 +80,69 @@ Requisiti non funzionali di sistemi:
       -Il sistema deve essere disponibile e accessibile in modo affidabile.
 
 
+   Grafico: Work-breakdown-structure:
+
+      - Progetto Sito Web Architettura
+  |-- Analisi e Pianificazione
+  |   |-- Definizione Obiettivi Progetto
+  |   |-- Identificazione Stakeholder
+  |   |-- Analisi Requisiti Utenti e di Sistema
+  |   |-- Pianificazione Tempistica
+  |   |-- Budgetizzazione
+  |
+  |-- Sviluppo dell'Applicazione
+  |   |-- Progettazione dell'Interfaccia Utente
+  |   |   |-- Schermata di Registrazione
+  |   |   |-- Schermata Principale
+  |   |   |-- Pannello Utente Normale
+  |   |   |-- Pannello Utente Lavoratore
+  |   |
+  |   |-- Implementazione della Registrazione e Accesso
+  |   |   |-- Gestione Email e Password
+  |   |   |-- Autenticazione a Due Fattori
+  |   |
+  |   |-- Gestione Profilo Utente
+  |   |   |-- Modifica Profilo Utente Normale
+  |   |   |-- Modifica Profilo Utente Lavoratore
+  |   |
+  |   |-- Sistema di Pubblicizzazione Aziendale
+  |   |   |-- Creazione e Gestione Account Aziendale
+  |   |   |-- Ricerca e Visualizzazione Aziende
+  |   |
+  |   |-- Implementazione del Sistema di Consulenze
+  |       |-- Richiesta Consulenza Utente Normale
+  |       |-- Gestione Consulenze Utenti Lavoratori
+  |
+  |-- Registrazione Utenti
+  |   |-- Definizione Campi di Registrazione per Utente Normale
+  |   |-- Definizione Campi di Registrazione per Utente Lavoratore
+  |   |-- Implementazione Registrazione Utente Normale
+  |   |-- Implementazione Registrazione Utente Lavoratore
+  |
+  |-- Sistema di Abbonamento
+  |   |-- Progettazione Modello di Business
+  |   |-- Implementazione Scelta Livello di Abbonamento
+  |   |-- Gestione Abbonamenti Utente Normale
+  |   |-- Gestione Abbonamenti Utente Lavoratore
+  |
+  |-- Requisiti Non Funzionali di Sistema
+      |-- Sicurezza
+      |   |-- Implementazione Crittografia Dati Utente
+      |   |-- Gestione Accesso Sicuro
+      |
+      |-- Performance
+      |   |-- Ottimizzazione Codice e Risposta dell'App
+      |   |-- Monitoraggio Prestazioni
+      |
+      |-- Scalabilità
+      |   |-- Architettura Scalabile del Sistema
+      |   |-- Gestione Crescita Utenti
+      |
+      |-- Usabilità
+      |   |-- Test Usabilità dell'App
+      |   |-- Feedback Utenti
+      |
+      |-- Disponibilità
+          |-- Backup e Ripristino Dati
+          |-- Monitoraggio Disponibilità del Sistema
+
