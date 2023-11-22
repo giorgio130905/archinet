@@ -63,6 +63,7 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
 
 
    Requisiti non funzionali di sistemi:
+   
          Sicurezza:
             -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
          Performance:
