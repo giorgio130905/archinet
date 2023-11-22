@@ -62,22 +62,17 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),(Accesso)<(Abbonamenti),(Abbonamenti)>(Paga),(Abbonamenti)>(Scegliere Abbonamento),(Abbonamenti)>(Aggiungere Carta),[Banca]-(Elaborazione),(Elaborazione)>(Invio Risultato di Conferma),[Sistema]-(Attivazione Abbonamento)">
 
 
-Requisiti non funzionali di sistemi:
-
-   Sicurezza:
-      -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
-      
-   Performance:
-      -Il sistema deve essere reattivo e garantire tempi di risposta rapidi.
-      
-   Scalabilità:
-      -Il sistema deve essere in grado di gestire un numero crescente di utenti e dati di gioco.
-      
-   Usabilità:
-      -L'applicazione deve essere intuitiva e facile da usare per gli utenti.
-      
-   Disponibilità:
-      -Il sistema deve essere disponibile e accessibile in modo affidabile.
+   Requisiti non funzionali di sistemi:
+         Sicurezza:
+            -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
+         Performance:
+            -Il sistema deve essere reattivo e garantire tempi di risposta rapidi.
+         Scalabilità:
+            -Il sistema deve essere in grado di gestire un numero crescente di utenti e dati di gioco.
+         Usabilità:
+            -L'applicazione deve essere intuitiva e facile da usare per gli utenti.
+         Disponibilità:
+            -Il sistema deve essere disponibile e accessibile in modo affidabile.
 
 
    Grafico: Work-breakdown-structure:
