@@ -62,7 +62,7 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),(Accesso)<(Abbonamenti),(Abbonamenti)>(Paga),(Abbonamenti)>(Scegliere Abbonamento),(Abbonamenti)>(Aggiungere Carta),[Banca]-(Elaborazione),(Elaborazione)>(Invio Risultato di Conferma),[Sistema]-(Attivazione Abbonamento)">
 
 
-   Requisiti non funzionali di sistemi:
+Requisiti non funzionali di sistemi:
    
          Sicurezza:
             -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
