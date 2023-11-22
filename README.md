@@ -81,7 +81,8 @@ Requisiti non funzionali di sistemi:
 
 
    Grafico: Work-breakdown-structure:
-      - Progetto Sito Web Architettura<br>
+   
+ - Progetto Sito Web Architettura<br>
   |-- Analisi e Pianificazione<br>
   |   |-- Definizione Obiettivi Progetto<br>
   |   |-- Identificazione Stakeholder<br>
