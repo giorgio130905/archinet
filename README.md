@@ -83,7 +83,7 @@ Requisiti non funzionali di sistemi:
   |   |-- Definizione Obiettivi Progetto<br>
   |   |-- Identificazione Stakeholder<br>
   |   |-- Analisi Requisiti Utenti e di Sistema<br>
-  |   |-- Pianificazione Tempistica<br>  
+  |   |-- Pianificazione Tempistica
   |   |-- Budgetizzazione<br>  
   |   <br>
   |-- Sviluppo dell'Applicazione<br>  
