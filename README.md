@@ -17,6 +17,7 @@ COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
 CHE TIPO DI UTENTE SEI:
 
     Requisiti Funzionali Utente
+    
           -Utente normale
           -Utente lavoratore
 
@@ -26,6 +27,7 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
 1. UTENTE NORMALE:
 
          Requisiti Funzionali Utente
+   
                -Nome Utente
                -Numero di Telefono
 
@@ -34,6 +36,7 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
  1. UTENTE LAVORATORE:
 
           Requisiti Funzionali Utente
+    
              -Nome dell'Azienda
              -Numero di Telefono
              -Tipo di azienda
@@ -45,6 +48,7 @@ MODELLO DI BUISINES:
 Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
          
         1. UTENTE NORMALE:
+        
                 L'utente normale avrà la possibilita di selezionare il livello di abbonamento che potrà essere: BASE - MEDIUM - SUPERIOR.
                 L'abbonamneto BASE ha una durata di 3 mesi con l'accesso però non a tutte le azziende disponibili nel applicazione
                 L'abbonamento MEDIUM ha una durata di 6 mesi con l'accesso a tutte le azziendi disponibili nel applicazione
@@ -54,6 +58,7 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
 
 
         2. UTENTE LAVORATORE:
+        
                 L'utente lavoratore avrà la possiblità di selezionare il livello di abbonamento che potrà essere: BASE - MEDIUM - SUPERIOR:
                 L'abbonamneto BASE ha una durata di 3 mesi, permetterà all'azzineda di essere consigliata solo agli UTENTI NORMALI con lo stesso piano di abbonamento
                 L'abbonamento MEDIUM ha una durata di 6 mesi, permetterà all'azzeinda di essere consigliata a tutti gli utenti tranne a quelli con il piano BASE
@@ -65,14 +70,19 @@ Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
 Requisiti non funzionali di sistemi:
    
          Sicurezza:
+         
             -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
          Performance:
+         
             -Il sistema deve essere reattivo e garantire tempi di risposta rapidi.
          Scalabilità:
+         
             -Il sistema deve essere in grado di gestire un numero crescente di utenti e dati di gioco.
          Usabilità:
+         
             -L'applicazione deve essere intuitiva e facile da usare per gli utenti.
          Disponibilità:
+         
             -Il sistema deve essere disponibile e accessibile in modo affidabile.
 
 
@@ -142,7 +152,7 @@ Requisiti non funzionali di sistemi:
                 |-- Backup e Ripristino Dati
                 |-- Monitoraggio Disponibilità del Sistema
 
-   WORK BREAKDOWN STRUCTURE:
+USER STORY:
    
          Sprint 1 (Settimane 1-3): Registrazione Utente e Gestione dell'Account
             Utente Normale:
