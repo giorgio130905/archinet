@@ -6,7 +6,7 @@ Questa applicazione ci permette di risolvere il probema di non conoscere aziede 
 
 COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
 
-    * Requisti Funzionali Utente
+      Requisti Funzionali Utente
 
     - Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
     - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account. * Requisti Funzionali Sistema
@@ -25,19 +25,19 @@ CHE TIPO DI UTENTE SEI:
 A seconda della selezione utente che facciamo i campi che ci serviranno per creare un account saranno differenti:
 1. UTENTE NORMALE:
 
-         *Requisiti Funzionali Utente
-          -Nome Utente
-          -Numero di Telefono
+         Requisiti Funzionali Utente
+            -Nome Utente
+             -Numero di Telefono
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Normale)^(Accesso),(Utente Normale)>(Nome Utente),(Utente Normale)>(Numero Telefono)">
      
  1. UTENTE LAVORATORE:
 
-          *Requisiti Funzionali Utente
-          -Nome dell'Azienda
-          -Numero di Telefono
-          -Tipo di azienda
-          -Servizio che svolgo
+          Requisiti Funzionali Utente
+             -Nome dell'Azienda
+             -Numero di Telefono
+             -Tipo di azienda
+             -Servizio che svolgo
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Lavoratore)^(Accesso),(Utente Lavoratore)>(Nome dell'Azienda),(Utente Lavoratore)>(Numero di Telefono),(Utente Lavoratore)>(Tipo di Azzienda),(Utente Lavoratore)>(Servizio che Svolgono)">
 MODELLO DI BUISINES:
@@ -142,7 +142,7 @@ Requisiti non funzionali di sistemi:
           |-- Backup e Ripristino Dati<br>
           |-- Monitoraggio Disponibilità del Sistema<br>
 
-   Work Breakdown Structure:
+   WORK BREAKDOWN STRUCTURE:
    
          Sprint 1 (Settimane 1-3): Registrazione Utente e Gestione dell'Account
             Utente Normale:
