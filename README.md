@@ -149,38 +149,38 @@ Requisiti non funzionali di sistemi:
 
 USER STORY:
    
-         Sprint 1 (Settimane 1-3): Registrazione Utente e Gestione dell'Account
+      Sprint 1 (Settimane 1-3): Registrazione Utente e Gestione dell'Account
             Utente Normale:
-               Come utente normale, voglio registrare un account per accedere alle informazioni architettoniche e ai servizi di consulenza → 8 ore
-               Come utente normale, voglio inserire la mia email e creare una password per registrare un account → 5 ore
-               Come utente normale, voglio avere l'opzione di attivare l'autenticazione a due fattori per aumentare la sicurezza del mio account → 8 ore
+               1. Come utente normale, voglio registrare un account per accedere alle informazioni architettoniche e ai servizi di consulenza → 8 ore
+               2. Come utente normale, voglio inserire la mia email e creare una password per registrare un account → 5 ore
+               3. Come utente normale, voglio avere l'opzione di attivare l'autenticazione a due fattori per aumentare la sicurezza del mio account → 8 ore
             Utente Lavoratore:
-               Come utente lavoratore, voglio registrare un account aziendale per pubblicizzare la mia attività e fornire servizi di consulenza → 8 ore
-               Come utente lavoratore, voglio inserire il nome della mia azienda, il numero di telefono e specificare il tipo di azienda e i servizi offerti → 5 ore
+               1. Come utente lavoratore, voglio registrare un account aziendale per pubblicizzare la mia attività e fornire servizi di consulenza → 8 ore
+               2. Come utente lavoratore, voglio inserire il nome della mia azienda, il numero di telefono e specificare il tipo di azienda e i servizi offerti → 5 ore
             Sviluppatori:
-               Implementazione della schermata di registrazione per entrambi i tipi di 	utenti → 8 ore
-               Creazione delle funzionalità di inserimento di email, password e attivazione dell'autenticazione a due fattori → 13 ore
-               Sviluppo della schermata di registrazione aziendale e integrazione delle informazioni aziendali →8 ore
+               1. Implementazione della schermata di registrazione per entrambi i tipi di utenti → 8 ore
+               2. Creazione delle funzionalità di inserimento di email, password e attivazione dell'autenticazione a due fattori → 13 ore
+               3. Sviluppo della schermata di registrazione aziendale e integrazione delle informazioni aziendali →8 ore
             Responsabili della Sicurezza:
-               Verifica e implementazione dei meccanismi di sicurezza per la gestione delle password → 13 ore
-               Implementazione dell'autenticazione a due fattori per garantire una maggiore sicurezza per gli utenti → 8 ore
+               1. Verifica e implementazione dei meccanismi di sicurezza per la gestione delle password → 13 ore
+               2. Implementazione dell'autenticazione a due fattori per garantire una maggiore sicurezza per gli utenti → 8 ore
          
-            Sprint 2 (Settimane 4-6): Funzionalità Avanzate e Ottimizzazioni
+      Sprint 2 (Settimane 4-6): Funzionalità Avanzate e Ottimizzazioni
             Utente Normale:
-               Come utente normale, voglio selezionare il livello di abbonamento per accedere a diverse funzionalità del sito → 8 ore
-               Come utente normale, voglio cercare aziende in base al tipo di servizio e alla competenza → 13 ore
-               Come utente normale, voglio ricevere consulenze da impiegati            certificati → 8 ore
+               1. Come utente normale, voglio selezionare il livello di abbonamento per accedere a diverse funzionalità del sito → 8 ore
+               2. Come utente normale, voglio cercare aziende in base al tipo di servizio e alla competenza → 13 ore
+               3. Come utente normale, voglio ricevere consulenze da impiegati certificati → 8 ore
             Utente Lavoratore:
-               Come utente lavoratore, voglio selezionare il livello di abbonamento per aumentare la visibilità della mia azienda → 13 ore
-               Come utente lavoratore, voglio essere consigliato agli utenti con livelli di abbonamento MEDIUM e SUPERIOR → 8 ore
-               Come utente lavoratore, voglio fornire consulenze e assistenza agli utenti interessati → 8 ore
+               1. Come utente lavoratore, voglio selezionare il livello di abbonamento per aumentare la visibilità della mia azienda → 13 ore
+               2. Come utente lavoratore, voglio essere consigliato agli utenti con livelli di abbonamento MEDIUM e SUPERIOR → 8 ore
+               3. Come utente lavoratore, voglio fornire consulenze e assistenza agli utenti interessati → 8 ore
             Sviluppatori:
-               Implementazione delle opzioni di abbonamento per utenti normali e   lavoratori → 13 ore
-               Sviluppo della funzionalità di ricerca avanzata basata su tipo di servizio e competenza → 21 ore
-               Implementazione del sistema di raccomandazione per gli utenti          lavoratori → 13 ore
+               1. Implementazione delle opzioni di abbonamento per utenti normali e lavoratori → 13 ore
+               2. Sviluppo della funzionalità di ricerca avanzata basata su tipo di servizio e competenza → 21 ore
+               3. Implementazione del sistema di raccomandazione per gli utenti lavoratori → 13 ore
             Responsabili della Sicurezza:
-               Continuazione della revisione e miglioramento della sicurezza del         sistema → 21 ore
-               Verifica e implementazione di eventuali aggiornamenti per mantenere la sicurezza del sistema → 13 ore
+               1. Continuazione della revisione e miglioramento della sicurezza del sistema → 21 ore
+               2. Verifica e implementazione di eventuali aggiornamenti per mantenere la sicurezza del sistema → 13 ore
          
             Note:
             Ogni user story è stimata in modo da occupare circa 10 ore di lavoro.
