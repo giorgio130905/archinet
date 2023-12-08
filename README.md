@@ -78,69 +78,69 @@ Requisiti non funzionali di sistemi:
 
    Grafico: Work-breakdown-structure:
    
-      Progetto Sito Web Architettura<br>
-        |-- Analisi e Pianificazione<br>
-        |   |-- Definizione Obiettivi Progetto<br>
-        |   |-- Identificazione Stakeholder<br>
-        |   |-- Analisi Requisiti Utenti e di Sistema<br>
-        |   |-- Pianificazione Tempistica<br>
-        |   |-- Budgetizzazione<br>  
-        |   <br>
-        |-- Sviluppo dell'Applicazione<br>  
-        |   |-- Progettazione dell'Interfaccia Utente<br>  
-        |   |   |-- Schermata di Registrazione<br>  
-        |   |   |-- Schermata Principale<br>  
-        |   |   |-- Pannello Utente Normale<br>  
-        |   |   |-- Pannello Utente Lavoratore<br>
-        |   |<br>
-        |   |-- Implementazione della Registrazione e Accesso<br> 
-        |   |   |-- Gestione Email e Password<br>
-        |   |   |-- Autenticazione a Due Fattori<br> 
-        |   |<br>
-        |   |-- Gestione Profilo Utente<br>
-        |   |   |-- Modifica Profilo Utente Normale<br>
-        |   |   |-- Modifica Profilo Utente Lavoratore<br>
-        |   |<br>
-        |   |-- Sistema di Pubblicizzazione Aziendale<br>
-        |   |   |-- Creazione e Gestione Account Aziendale<br>
-        |   |   |-- Ricerca e Visualizzazione Aziende<br>
-        |   |<br>
-        |   |-- Implementazione del Sistema di Consulenze<br>
-        |       |-- Richiesta Consulenza Utente Normale<br>
-        |       |-- Gestione Consulenze Utenti Lavoratori<br>
-        |<br>
-        |-- Registrazione Utenti<br>
-        |   |-- Definizione Campi di Registrazione per Utente Normale<br>
-        |   |-- Definizione Campi di Registrazione per Utente Lavoratore<br>
-        |   |-- Implementazione Registrazione Utente Normale<br>
-        |   |-- Implementazione Registrazione Utente Lavoratore<br>
-        |<br>
-        |-- Sistema di Abbonamento<br>
-        |   |-- Progettazione Modello di Business<br>
-        |   |-- Implementazione Scelta Livello di Abbonamento<br>
-        |   |-- Gestione Abbonamenti Utente Normale<br>
-        |   |-- Gestione Abbonamenti Utente Lavoratore<br>
-        |<br>
-        |-- Requisiti Non Funzionali di Sistema<br>
-            |-- Sicurezza<br>
-            |   |-- Implementazione Crittografia Dati Utente<br>
-            |   |-- Gestione Accesso Sicuro<br>
-            |<br>
-            |-- Performance<br>
-            |   |-- Ottimizzazione Codice e Risposta dell'App<br>
-            |   |-- Monitoraggio Prestazioni<br>
-            |<br>
-            |-- Scalabilità<br>
-            |   |-- Architettura Scalabile del Sistema<br>
-            |   |-- Gestione Crescita Utenti<br>
-            |<br>
-            |-- Usabilità<br>
-            |   |-- Test Usabilità dell'App<br>
-            |   |-- Feedback Utenti<br>
-            |<br>
-            |-- Disponibilità<br>
-                |-- Backup e Ripristino Dati<br>
-                |-- Monitoraggio Disponibilità del Sistema<br>
+      Progetto Sito Web Architettura
+        |-- Analisi e Pianificazione
+        |   |-- Definizione Obiettivi Progetto
+        |   |-- Identificazione Stakeholder
+        |   |-- Analisi Requisiti Utenti e di Sistema
+        |   |-- Pianificazione Tempistica
+        |   |-- Budgetizzazione  
+        |   
+        |-- Sviluppo dell'Applicazione
+        |   |-- Progettazione dell'Interfaccia Utente 
+        |   |   |-- Schermata di Registrazione  
+        |   |   |-- Schermata Principale 
+        |   |   |-- Pannello Utente Normale
+        |   |   |-- Pannello Utente Lavoratore
+        |   |
+        |   |-- Implementazione della Registrazione e Accesso 
+        |   |   |-- Gestione Email e Password
+        |   |   |-- Autenticazione a Due Fattori
+        |   |
+        |   |-- Gestione Profilo Utente
+        |   |   |-- Modifica Profilo Utente Normale
+        |   |   |-- Modifica Profilo Utente Lavoratore
+        |   |
+        |   |-- Sistema di Pubblicizzazione Aziendale
+        |   |   |-- Creazione e Gestione Account Aziendale
+        |   |   |-- Ricerca e Visualizzazione Aziende
+        |   |
+        |   |-- Implementazione del Sistema di Consulenze
+        |       |-- Richiesta Consulenza Utente Normale
+        |       |-- Gestione Consulenze Utenti Lavoratori
+        |
+        |-- Registrazione Utenti
+        |   |-- Definizione Campi di Registrazione per Utente Normale
+        |   |-- Definizione Campi di Registrazione per Utente Lavoratore
+        |   |-- Implementazione Registrazione Utente Normale
+        |   |-- Implementazione Registrazione Utente Lavoratore
+        |
+        |-- Sistema di Abbonamento
+        |   |-- Progettazione Modello di Business
+        |   |-- Implementazione Scelta Livello di Abbonamento
+        |   |-- Gestione Abbonamenti Utente Normale
+        |   |-- Gestione Abbonamenti Utente Lavoratore
+        |
+        |-- Requisiti Non Funzionali di Sistema
+            |-- Sicurezza
+            |   |-- Implementazione Crittografia Dati Utente
+            |   |-- Gestione Accesso Sicuro
+            |
+            |-- Performance
+            |   |-- Ottimizzazione Codice e Risposta dell'Ap
+            |   |-- Monitoraggio Prestazioni
+            |
+            |-- Scalabilità
+            |   |-- Architettura Scalabile del Sistema
+            |   |-- Gestione Crescita Utenti
+            |
+            |-- Usabilità
+            |   |-- Test Usabilità dell'App<
+            |   |-- Feedback Utenti<
+            |
+            |-- Disponibilità
+                |-- Backup e Ripristino Dati
+                |-- Monitoraggio Disponibilità del Sistema
 
    WORK BREAKDOWN STRUCTURE:
    
