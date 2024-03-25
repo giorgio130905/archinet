@@ -1,16 +1,16 @@
-ARCHINET 
+ARCHINET
 
-Il mio sito web permette a tutti gli appassionati del mondo dell'architettura e non solo di potersi informare sulle novità architettoniche. Il sito permetterà anche di avere delle consulenze da impiegati certificati per poter avere delle informazioni o degli aiuti nei campi in cui si hanno bisogno.
-Questo sito permette anche di poter pubbliccizare la propia attivita grazie al propio account, perchè tutti gli utenti potranno fare una ricerca di azziende o piccole attività che possono essere competenti per il lavoro che si deve svelgere. 
-Questa applicazione ci permette di risolvere il probema di non conoscere aziede edili che ci possono svolgere il lavoro. 
+Il mio sito web permette a tutti gli appassionati del mondo dell'architettura e non solo di potersi informare sulle novità architettoniche. Il sito permetterà anche di avere delle consulenze da impiegati certificati per poter avere delle informazioni o degli aiuti nei campi in cui si hanno bisogno. Questo sito permette anche di poter pubblicizzare la propria attività grazie al proprio account, perché tutti gli utenti potranno fare una ricerca di aziende o piccole attività che possono essere competenti per il lavoro che si deve svolgere. Questa applicazione ci permette di risolvere il problema di non conoscere aziende edili che ci possono svolgere il lavoro.
 
-COSA DI CUI DEVI AVER BISOGNO PER REGISTRARSI:
+COSA DI CUI DEVI AVER BISOGNO PER REGISTRARTI:
 
-      Requisti Funzionali Utente
+      Requisiti Funzionali Utente
 
-          - Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
-          - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account. * Requisti Funzionali Sistema
-          - Gestione accesso, registrazione, reset password e autenticazione a due fattori.
+           -Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
+           -Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
+            
+      Requisiti Funzionali Sistema
+           -Gestione accesso, registrazione, reset password e autenticazione a due fattori.
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Registrazione),(Registrazione)<(Autenticazione a Due Fattori)">
 
@@ -33,7 +33,7 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Normale)^(Accesso),(Utente Normale)>(Nome Utente),(Utente Normale)>(Numero Telefono)">
      
- 1. UTENTE LAVORATORE:
+ 2. UTENTE LAVORATORE:
 
           Requisiti Funzionali Utente
     
@@ -44,20 +44,8 @@ A seconda della selezione utente che facciamo i campi che ci serviranno per crea
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[UTENTE]-(Accesso),(Utente Lavoratore)^(Accesso),(Utente Lavoratore)>(Nome dell'Azienda),(Utente Lavoratore)>(Numero di Telefono),(Utente Lavoratore)>(Tipo di Azzienda),(Utente Lavoratore)>(Servizio che Svolgono)">
 MODELLO DI BUISINES:
-
-Ci saranno due piani di abbonamento a seconda del tipo di utente che sei:
-         
-        1. UTENTE NORMALE:
-        
-                L'utente normale avrà la possibilita di selezionare il livello di abbonamento che potrà essere: BASE - MEDIUM - SUPERIOR.
-                L'abbonamneto BASE ha una durata di 3 mesi con l'accesso però non a tutte le azziende disponibili nel applicazione
-                L'abbonamento MEDIUM ha una durata di 6 mesi con l'accesso a tutte le azziendi disponibili nel applicazione
-                L'abbonamento SUPERIOR ha una durata di 12 mesi con l'accesso sempre a tutte le azziende disponibile ma rispetto al MEDIUM quando richiedermo un servizio ad un'azzinede registrata avrà la priorità rispetto
-                agli altri utenti.
- <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),(Accesso)<(Abbonamenti),(Abbonamenti)>(Paga),(Abbonamenti)>(Scegliere Abbonamento),(Abbonamenti)>(Aggiungere Carta),[Banca]-(Elaborazione),(Elaborazione)>(Invio Risultato di Conferma),[Sistema]-(Attivazione Abbonamento)">               
-
-
-        2. UTENTE LAVORATORE:
+Gli utenti base non hanno il piano di abbonamneto, gli utenti lavoratori dovranno scegliere tra 3 piani di abbonamento.
+        UTENTE LAVORATORE:
         
                 L'utente lavoratore avrà la possiblità di selezionare il livello di abbonamento che potrà essere: BASE - MEDIUM - SUPERIOR:
                 L'abbonamneto BASE ha una durata di 3 mesi, permetterà all'azzineda di essere consigliata solo agli UTENTI NORMALI con lo stesso piano di abbonamento
