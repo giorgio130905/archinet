@@ -174,5 +174,24 @@ USER STORY:
             Ogni user story è stimata in modo da occupare circa 10 ore di lavoro.
             La durata degli sprint è di 3 settimane ciascuno, con 40 ore di lavoro settimanali.
             Al termine di ogni sprint, è previsto un periodo di revisione e testing per garantire la qualità delle nuove funzionalità implementate.
-             
 
+PIVOT DEL PROGETTO:
+
+      1. Identificazione delle tecnologie emergenti:
+            Dopo un'attenta analisi delle ultime tendenze nel settore dell'architettura e della progettazione, abbiamo individuato alcune tecnologie emergenti che potrebbero essere integrate per migliorare l'esperienza degli utenti su ARCHINET.
+      2. Valutazione dell'applicabilità:
+            Abbiamo valutato come queste tecnologie possano essere integrate per migliorare la fruizione delle informazioni architettoniche, facilitare la consulenza e favorire la pubblicità delle aziende nel settore.
+      3. Definizione dei requisiti:
+            Abbiamo stabilito i requisiti funzionali e non funzionali per l'integrazione delle seguenti tecnologie emergenti:
+      4. Sviluppo e integrazione:
+            -Realta Aumentata (AR): Consente agli utenti di visualizzare modelli architettonici in AR direttamente attraverso l'app ARCHINET. Gli utenti possono esplorare dettagli architettonici in tempo reale, interagire con gli elementi e "posizionare" virtualmente i             progetti nella loro area di interesse.
+            -Visualizzazione 3D interattiva: Implementiamo strumenti per permettere agli utenti di creare e manipolare modelli architettonici in 3D direttamente sulla piattaforma. Questo offre un'esperienza di progettazione più interattiva e consente agli utenti di                 esplorare diverse opzioni di design.
+            -Machine Learning per la raccomandazione di aziende: Utilizziamo algoritmi di machine learning per analizzare i dati degli utenti e suggerire aziende edili o servizi di consulenza basati sulle esigenze e le preferenze specifiche di ciascun utente.
+      5. Test e validazione:
+            Condurremo test approfonditi per garantire che le nuove funzionalità integrate funzionino correttamente e offrano un'esperienza utente ottimale. Coinvolgeremo gli utenti beta per raccogliere feedback e identificare eventuali problemi o aree di                           miglioramento.
+      6. Educazione degli utenti:
+            Creeremo risorse educative, come guide utente e video tutorial, per aiutare gli utenti a familiarizzare con le nuove funzionalità basate sulle tecnologie emergenti. Forniremo inoltre supporto continuo agli utenti attraverso canali di comunicazione                       appropriati.
+      7. Lancio e monitoraggio:
+            Lanciaremo ufficialmente le nuove funzionalità integrate nella piattaforma ARCHINET, comunicando efficacemente agli utenti i benefici delle novità. Monitoreremo attentamente l'utilizzo e il feedback degli utenti per valutare l'efficacia delle nuove                      funzionalità e identificare eventuali aree di miglioramento.
+      8. Iterazione e miglioramento continuo:
+            Utilizzeremo i dati raccolti dal monitoraggio post-lancio per iterare sulle funzionalità esistenti e apportare miglioramenti basati sul feedback degli utenti. Continueremo a monitorare le tendenze e le innovazioni nel campo delle tecnologie emergenti per                identificare opportunità future di miglioramento e sviluppo.
