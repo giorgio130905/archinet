@@ -190,7 +190,7 @@ PIVOT DEL PROGETTO:
       5. Test e validazione:
             Condurremo test approfonditi per garantire che le nuove funzionalità integrate funzionino correttamente e offrano un'esperienza utente ottimale. Coinvolgeremo gli utenti beta per raccogliere feedback e identificare eventuali problemi o aree di miglioramento.
       6. Educazione degli utenti:
-            Creeremo risorse educative, come guide utente e video tutorial, per aiutare gli utenti a familiarizzare con le nuove funzionalità basate sulle tecnologie emergenti. Forniremo inoltre supporto continuo agli utenti attraverso canali di comunicazione        appropriati.
+            Creeremo risorse educative, come guide utente e video tutorial, per aiutare gli utenti a familiarizzare con le nuove funzionalità basate sulle tecnologie emergenti. Forniremo inoltre supporto continuo agli utenti attraverso canali di comunicazione appropriati.
       7. Lancio e monitoraggio:
             Lanciaremo ufficialmente le nuove funzionalità integrate nella piattaforma ARCHINET, comunicando efficacemente agli utenti i benefici delle novità. Monitoreremo attentamente l'utilizzo e il feedback degli utenti per valutare l'efficacia delle nuove funzionalità e identificare eventuali aree di miglioramento.
       8. Iterazione e miglioramento continuo:
